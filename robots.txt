@@ -1,0 +1,4 @@
+Sitemap: http://nothing.nothing/sitemapindex.xml
+
+User-Agent: *
+Host: nothing.nothing
