@@ -2,7 +2,7 @@
 .. title: 我的高中
 .. slug: wo-de-gao-zhong
 .. date: 2020-06-20 02:44:07 UTC
-.. tags: 
+.. tags: survive
 .. category: 
 .. link: 
 .. description: 
