@@ -2,7 +2,7 @@
 .. title: 夏令營
 .. slug: xia-ling-ying
 .. date: 2020-07-25 12:53:47 UTC
-.. tags: 
+.. tags: 我的高中
 .. category: 
 .. link: 
 .. description: 
